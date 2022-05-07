@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main">#B124F22D</color>
+    <color name="second">#B124F44C</color>
+    <color name="third">#B126F55C</color>
+    <color name="darksecond">#1B24FC4C</color>
+    <color name="darkthird">#11C62554</color>
+    <color name="button">#B133D22B</color>
+    <color name="text">#B122242D</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
